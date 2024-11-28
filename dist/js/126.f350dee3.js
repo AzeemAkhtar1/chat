@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[126],{8126:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var t=r(6768);const c={class:"container"};function u(n,e,r,u,i,l){return(0,t.uX)(),(0,t.CE)("div",c,e[0]||(e[0]=[(0,t.Lk)("h2",null,"Profile",-1)]))}var i={name:"ProfileView"},l=r(1241);const a=(0,l.A)(i,[["render",u]]);var s=a}}]);
+//# sourceMappingURL=126.f350dee3.js.map
